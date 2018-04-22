@@ -15,7 +15,8 @@ This will be a repository that I will update with data science resources includi
 
 ***
 ## R
-  * R for Data Science - Wikham [PDF](http://r4ds.had.co.nz/)
+  * R for Data Science[PDF](http://r4ds.had.co.nz/)
+  * Caret[HTML](http://topepo.github.io/caret/index.html) 
 ***
 ## Python
   * Learn Python the hard way: [Free book](https://learnpythonthehardway.org/book/)
@@ -42,3 +43,4 @@ http://cs229.stanford.edu/syllabus.html)
 ***
 ## Other
 * How to finish a Data Challenge: [Kaggle EDA kernels](https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20)
+* [UCI Machine Learning Datasets](https://archive.ics.uci.edu/ml/index.php)
