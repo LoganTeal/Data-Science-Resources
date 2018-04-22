@@ -35,11 +35,11 @@ http://cs229.stanford.edu/syllabus.html)
 ***
 ## Podcasts
 ***
-## Books and Articles
+## Books, Articles, Blogs
   * Introduction to Statistical Learning: [PDF](http://www-bcf.usc.edu/~gareth/ISL/ISLR%20First%20Printing.pdf) 
   * The Elements of Statistical Learning: [PDF](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
-***
-## Courses
+### Blogs
+  * [Variance Explained](http://varianceexplained.org/)
 ***
 ## Other
 * How to finish a Data Challenge: [Kaggle EDA kernels](https://www.kaggle.com/kernels?sortBy=votes&group=everyone&pageSize=20)
