@@ -1,0 +1,15 @@
+Removing duplicates based off a timestamp
+  df1 <- df %>%
+    group_by(ID) %>%
+    arrange(ID, timestamp) %>%
+    slice(n()) %>%
+    ungroup()
+
+Convert character to numeric
+  df_num <- df_char %>% mutate_at(vars(var1:var100), as.numeric)
+  
+Remove high missing percentage
+  df_miss <- df %>% select(which(colMeans(is.na(.)) < 0.8))
+
+Remove Near Zero Variance
+  df_nzv <- df[-nearZeroVar(df[1:100], freqCut = 90/10)]
