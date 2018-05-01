@@ -13,3 +13,16 @@ Remove high missing percentage
 
 Remove Near Zero Variance
   df_nzv <- df[-nearZeroVar(df[1:100], freqCut = 90/10)]
+
+Impute special flags
+  impute_val_99 <- c('insert variables')
+  impute_val_999.9 <- c('insert variables')
+  impute_val_9999999 <- c('insert variables')
+
+  imputed <- special_vals %>% mutate_at(vars(impute_val_999), 
+                                      .funs = funs(ifelse(. == 999, NA, .))) %>% 
+                              mutate_at(vars(impute_val_999.9), 
+                                        .funs = funs(ifelse(. == 999.9, NA, .))) %>% 
+                              mutate_at(vars(impute_val_9999999), 
+                                        .funs = funs(ifelse(. == 9999999, NA, .))) %>% 
+                              mutate_all(.funs = funs(ifelse(. < 0, NA, .)))
