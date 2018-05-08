@@ -15,7 +15,7 @@ This will be a repository that I will update with data science resources includi
 
 ***
 ## R
-  * [R for Data Science]http://r4ds.had.co.nz/)
+  * [R for Data Science](http://r4ds.had.co.nz/)
   * [Caret](http://topepo.github.io/caret/index.html) 
   * [R Notebook/Markdown](https://www.rstudio.com/wp-content/uploads/2015/03/rmarkdown-reference.pdf)
   * [Cheatsheets](https://www.rstudio.com/resources/cheatsheets/)
