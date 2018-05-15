@@ -34,6 +34,7 @@ http://cs229.stanford.edu/syllabus.html)
   * Machine Learning Foundations: [Coursera](https://www.coursera.org/learn/ntumlone-mathematicalfoundations)
 , [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&disable_polymer=true)
   * Machine Learning Techniques: [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
+  * [Gradient Boosting](http://arogozhnikov.github.io/2016/07/05/gradient_boosting_playground.html)
 ***
 
 ## Visualization
