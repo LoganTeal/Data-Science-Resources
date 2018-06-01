@@ -35,7 +35,7 @@ http://cs229.stanford.edu/syllabus.html)
 , [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2I7tB6oIINGBmW50rrmFTqf&disable_polymer=true)
   * Machine Learning Techniques: [Youtube](https://www.youtube.com/playlist?list=PLXVfgk9fNX2IQOYPmqjqWsNUFl2kpk1U2&disable_polymer=true)
   * [ML Visuals](http://arogozhnikov.github.io/2016/04/28/demonstrations-for-ml-courses.html)
-  * [Decision Tree Explanation] (https://www.quantstart.com/articles/Beginners-Guide-to-Decision-Trees-for-Supervised-Machine-Learning)
+  * [Decision Tree Explanation](https://www.quantstart.com/articles/Beginners-Guide-to-Decision-Trees-for-Supervised-Machine-Learning)
 ***
 
 ## Visualization
