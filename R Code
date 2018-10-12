@@ -1,3 +1,14 @@
+Create training and test dataset with Caret
+
+set.seed(3456)
+trainIndex <- createDataPartition(data$target, p = .8, 
+                                  list = FALSE, 
+                                  times = 1)
+head(trainIndex)
+data_train <- data[ trainIndex,]
+data_test  <- data[-trainIndex,] 
+
+
 Removing duplicates based off a timestamp
   df1 <- df %>%
     group_by(ID) %>%
